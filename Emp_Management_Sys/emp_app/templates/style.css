@@ -1,0 +1,7 @@
+.fixed-alert-container {
+    position: fixed;
+    top: 10px; /* adjust this value to position the alert as desired */
+    right: 10px; /* adjust this value to position the alert as desired */
+    z-index: 9999; /* adjust this value as needed to ensure the alert appears on top of other elements */
+  }
+  
